@@ -1,0 +1,9 @@
+{
+  "packages":[
+    {
+      "name":"package-manager",
+      "author":"SALTWOOD",
+      "repo":"https://github.com/SALTWOOD/pkgm-source"
+    }
+  ]
+}
